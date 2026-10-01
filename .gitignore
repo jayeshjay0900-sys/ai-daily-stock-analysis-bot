@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+database/*.db
+data/raw/*
+data/processed/*
+reports/*.md
