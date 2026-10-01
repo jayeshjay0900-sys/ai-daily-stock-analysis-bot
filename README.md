@@ -1,4 +1,7 @@
 # 📈 AI Daily Stock Market Analysis Bot
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
 
 An AI-powered stock market analysis dashboard built with **Python, Streamlit, Machine Learning, Technical Analysis, Risk Analysis, and Financial News Sentiment Analysis**.
 
