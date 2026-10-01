@@ -13,8 +13,8 @@
 ![News & Sentiment](./screenshots/news.png)
 
 ### Fundamentals
-![Fundamentals](./screenshots/fundamentals.png)  
 
+![Fundamentals](./screenshots/fundamentals.png)
 An AI-powered stock market analysis dashboard built with **Python, Streamlit, Machine Learning, Technical Analysis, Risk Analysis, and Financial News Sentiment Analysis**.
 
 The application collects historical market data, calculates technical indicators, analyzes risk, retrieves financial news, performs sentiment analysis using FinBERT, and uses a Random Forest classifier to classify the next observed market direction as **UP or DOWN**.
