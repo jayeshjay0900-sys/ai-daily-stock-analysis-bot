@@ -4,20 +4,16 @@
 ## Screenshots
 
 ### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Technical Analysis
-
-![Technical Analysis](screenshots/technical.png)
+![Technical Analysis](./screenshots/technical.png)
 
 ### News & Sentiment
-
-![News & Sentiment](screenshots/news.png)
+![News & Sentiment](./screenshots/news.png)
 
 ### Fundamentals
-
-![Fundamentals](screenshots/fundamentals.png)
+![Fundamentals](./screenshots/fundamentals.png)  
 
 An AI-powered stock market analysis dashboard built with **Python, Streamlit, Machine Learning, Technical Analysis, Risk Analysis, and Financial News Sentiment Analysis**.
 
